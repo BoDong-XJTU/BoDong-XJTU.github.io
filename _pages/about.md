@@ -36,7 +36,7 @@ I am Bo Dong, a Senior Researcher at the School of Computer Science and Technolo
 - Bin Shi, Haiying Shen, Bo Dong and Qinghua Zheng. Memory/Disk Operation Aware Lightweight VM Live Migration. IEEE/ACM Transactions on Networking 30(4): 1895-1910 (2022).
 - Tieliang Gong, Yuxin Dong, Hong Chen, Bo Dong, Wei Feng, Chen Li. Regularized Modal Regression on Markov-dependent Observations: A Theoretical Assessment. Proceedings of the 2022 AAAI Conference on Artificial Intelligence (**AAAI-22**), 36(6), 6721-6728.
 - Yating Lin, Kamkwai Wong, Yong Wang, Rong Zhang, Bo Dong, Huamin Qu, Qinghua Zheng. TaxThemis: Interactive Mining and Exploration of Suspicious Tax Evasion Groups. IEEE Transactions on Visualization and Computer Graphics, 27(2): 849-859 (2021).
-- Huan He, Qinghua Zheng, Bo Dong. VUSphere: Visual Analysis of Video Utilization in Online Distance Education. Proceedings of the 2018 IEEE Conference on Visual Analytics Science and Technology (IEEE VIS-VAST), pp. 25-35, October 21-26, 2018, Berlin, Germany, IEEE.
+- Huan He, Qinghua Zheng, Bo Dong. VUSphere: Visual Analysis of Video Utilization in Online Distance Education. Proceedings of the 2018 IEEE Conference on Visual Analytics Science and Technology (**IEEE VIS-VAST**), pp. 25-35, October 21-26, 2018, Berlin, Germany, IEEE.
 
 
 # 🎖 Honors and Awards
