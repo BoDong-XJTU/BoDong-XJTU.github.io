@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Bo Dong"
-  avatar           : "images/citations.jpg"
+  avatar           : "citations.jpg"
   bio              : "Senior Researcher at Xi'an Jiaotong University. Deputy Director of the Shaanxi Provincial Key Laboratory of Big Data Knowledge Engineering."
   location         : "Xi'an, China"
   employer         :
